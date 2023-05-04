@@ -1,0 +1,17 @@
+< ! Doctype html >
+< html lang = « fr » >
+< head >
+          < meta charset  = « UTF-8 » >
+          < meta name = « viewport » content = « with= device – with initial – scale = 1.0 » >
+          ←Le titre de la page → 
+< / head >
+< body >
+         < section >
+                   < div >
+                   < h1 > Texte – Titre H1 < / h1>
+                    <p> Texte basique > <em> Voici un texte en italique> < /em>
+       < strong> Et un texte gras </strong>
+                   < span> l’élémént en span ne revient pas à la ligne </ span> </p>
+<div>
+          <h2> photos – Titre H2 </h2>
+          < img src = « batman.png » height = « 200 » alt = « image paysage »>
